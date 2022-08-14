@@ -3,6 +3,8 @@ Básicos:
 Git init
 Git add
 Git commit -m "nombre que se le quiera poner al cambio hecho"
+git status: ayuda a ver que archivos se encuentran en staging, cuales hacen falta hacerles commit 
+            para que pasen al repositorio
 
 Intermedios:
 
