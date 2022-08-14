@@ -2,5 +2,18 @@ Resumen de comandos Git:
 Básicos:
 Git init
 Git add
-Git commit -m
+Git commit -m "nombre que se le quiera poner al cambio hecho"
 
+Intermedios:
+
+Git add .: añade todos los cambios hechos al staging si se ha trabajado 
+sobre varios.
+
+Git diff: muestra cambios que se le haya hecho a documentos que aún
+se no se les haya hecho commit.  
+
+Git log + nombre del archivo: muestra los cambios hechos a uno o varios 
+archivos
+
+Git log --stat muestra los detalles de los cambios que se le hayan
+hecho a un documento
