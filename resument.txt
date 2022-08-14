@@ -1,0 +1,6 @@
+Resumen de comandos Git:
+Básicos:
+Git init
+Git add
+Git commit -m
+
