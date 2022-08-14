@@ -19,3 +19,10 @@ archivos
 
 Git log --stat muestra los detalles de los cambios que se le hayan
 hecho a un documento
+
+avanzados:
+check out
+         git check out "codigo del archivo" + nombre del archivo: devuelve el archivo a donde estaba en ese momento
+               a partir de ahí se le pueden hacer cambios, luego git add "nombre del archivo" y luego git commit -m "nombre" y se crea una rama nueva. 
+
+         git check out master "nombre del archivo" devuelve al archivo a como estaba en el ultimo commit. esto por supuesto sin haber hecho lo que está arriba.       
